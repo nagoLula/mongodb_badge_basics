@@ -18,6 +18,17 @@ This repository contains proof of completion for two MongoDB University courses:
 [![Relational to Document Model Badge](https://www.credly.com/badges/e02f76e7-2b56-4168-9f45-c389e7a9ff13/public_url)](https://www.credly.com/badges/e02f76e7-2b56-4168-9f45-c389e7a9ff13/public_url)
 
 ---
+## These screenshots show the completion status of the MongoDB Basics course on MongoDB University
+
+![Alt text](https://github.com/user-attachments/assets/56391caf-53a2-43be-8686-51545ded23c1)
+
+![Alt text](https://github.com/user-attachments/assets/b628c2b2-c752-42e5-bba4-d7c0009147aa)
+
+
+
+
+
+---
 
 ## Reflection
 
